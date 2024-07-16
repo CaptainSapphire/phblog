@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="captainsapphire.github.io/jekyll-theme-yat/feed.xml" rel="self" type="application/atom+xml" /><link href="captainsapphire.github.io/jekyll-theme-yat/" rel="alternate" type="text/html" /><updated>2024-07-16T21:59:33+00:00</updated><id>captainsapphire.github.io/jekyll-theme-yat/feed.xml</id><title type="html">PH Blog</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Priya Harry</name></author><entry><title type="html">How to upload a CD/DVD to a Microsoft OS Computer using an External ODD &amp;amp; HDD Device</title><link href="captainsapphire.github.io/jekyll-theme-yat/blog/2024/07/09/How-to-upload-a-CD-DVD-to-a-Microsoft-OS-Computer-using-an-External-ODD-&-HDD-Device.html" rel="alternate" type="text/html" title="How to upload a CD/DVD to a Microsoft OS Computer using an External ODD &amp;amp; HDD Device" /><published>2024-07-09T12:00:00+00:00</published><updated>2024-07-09T12:00:00+00:00</updated><id>captainsapphire.github.io/jekyll-theme-yat/blog/2024/07/09/How-to-upload-a-CD-DVD-to-a-Microsoft-OS-Computer-using-an-External-ODD-&amp;-HDD-Device</id><content type="html" xml:base="captainsapphire.github.io/jekyll-theme-yat/blog/2024/07/09/How-to-upload-a-CD-DVD-to-a-Microsoft-OS-Computer-using-an-External-ODD-&amp;-HDD-Device.html"><![CDATA[<h1 id="how-to-upload-a-cddvd-to-a-microsoft-os-computer-using-an-external-odd--hdd-device">How to upload a CD/DVD to a Microsoft OS Computer using an External ODD &amp; HDD Device</h1>
+<h3 id="its-a-long-title-but-relatively-simple-trust-me-">It’s a long title, but relatively simple, trust me! <br /></h3>
+<p><strong>First</strong>, ensure your device is plugged in to your computer. There should be a little light that comes on when you plug it in. <br /><br /> 
+<strong>Second</strong>, create the location you want to copy the CD/DVD onto on your device. If you do not know where to put it, continue reading this section.<br /><br /> 
+Click on “Downloads.” Right Click and press “Create Folder.” For now, title it “DVD Downloads” followed by today’s date. Rename at your peer/boss’s instruction. 
+To rename, simply right click on a file, and press “rename.”
+<br /><br /> 
+<strong>Third</strong>, press the button on your external ODD &amp; HDD device. The tray should then pop outwards. <br /><br /> 
+Follow that by placing your CD/DVD into the tray, with the design of the object facing upwards, and the holographic side facing down. <br /><br /> 
+<strong>THIS IS IMPORTANT!</strong>: Ensure your CD/DVD is clicked into the middle bit of the tray. If you close it and the device starts beeping at you, you did it wrong.<br /><br />
+<strong>Fourth</strong>, navigate back to your device. If you go to the area below your pins, under “This PC” and whatnot of the side navigation, you should see a CD icon appear.
+That is where your data is being put! <br /><br /> 
+Now go brew some coffee, take a minute to let your information upload to the system. <br /><br /> 
+Once it is done, the external device’s fan should turn off, and the light will turn off (though it might not stay off forever given power is running to it). <br /><br /></p>
+
+<p><img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/IMG_3175.jpg?raw=true" alt="&quot;External ODD and HDD Device&quot;" /></p>]]></content><author><name>Priya Harry</name></author><category term="blog" /><summary type="html"><![CDATA[How to upload a CD/DVD to a Microsoft OS Computer using an External ODD &amp; HDD Device It’s a long title, but relatively simple, trust me! First, ensure your device is plugged in to your computer. There should be a little light that comes on when you plug it in. Second, create the location you want to copy the CD/DVD onto on your device. If you do not know where to put it, continue reading this section. Click on “Downloads.” Right Click and press “Create Folder.” For now, title it “DVD Downloads” followed by today’s date. Rename at your peer/boss’s instruction. To rename, simply right click on a file, and press “rename.” Third, press the button on your external ODD &amp; HDD device. The tray should then pop outwards. Follow that by placing your CD/DVD into the tray, with the design of the object facing upwards, and the holographic side facing down. THIS IS IMPORTANT!: Ensure your CD/DVD is clicked into the middle bit of the tray. If you close it and the device starts beeping at you, you did it wrong. Fourth, navigate back to your device. If you go to the area below your pins, under “This PC” and whatnot of the side navigation, you should see a CD icon appear. That is where your data is being put! Now go brew some coffee, take a minute to let your information upload to the system. Once it is done, the external device’s fan should turn off, and the light will turn off (though it might not stay off forever given power is running to it).]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="captainsapphire.github.io/jekyll-theme-yat/jekyll/2015/01/01/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2015-01-01T00:00:00+00:00</published><updated>2015-01-01T00:00:00+00:00</updated><id>captainsapphire.github.io/jekyll-theme-yat/jekyll/2015/01/01/welcome-to-jekyll</id><content type="html" xml:base="captainsapphire.github.io/jekyll-theme-yat/jekyll/2015/01/01/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>To add new posts, simply add a file in the <code class="language-plaintext highlighter-rouge">_posts</code> directory that follows the convention <code class="language-plaintext highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<h2 id="section-1">section 1</h2>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+<span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<h2 id="section-2">section 2</h2>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>
+
+<p>$ a * b = c ^ b $</p>
+
+<p>$ 2^{\frac{n-1}{3}} $</p>
+
+<p>$ \int_a^b f(x)\,dx. $</p>
+
+<div class="language-cpp highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">#include</span> <span class="cpf">&lt;iostream&gt;</span><span class="cp">
+</span><span class="k">using</span> <span class="k">namespace</span> <span class="n">std</span><span class="p">;</span>
+
+<span class="kt">int</span> <span class="nf">main</span><span class="p">()</span> <span class="p">{</span>
+  <span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="s">"Hello World!"</span><span class="p">;</span>
+  <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+<span class="p">}</span>
+<span class="c1">// prints 'Hi, Tom' to STDOUT.</span>
+</code></pre></div></div>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">class</span> <span class="nc">Person</span><span class="p">:</span>
+  <span class="k">def</span> <span class="nf">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">name</span><span class="p">,</span> <span class="n">age</span><span class="p">):</span>
+    <span class="bp">self</span><span class="p">.</span><span class="n">name</span> <span class="o">=</span> <span class="n">name</span>
+    <span class="bp">self</span><span class="p">.</span><span class="n">age</span> <span class="o">=</span> <span class="n">age</span>
+
+<span class="n">p1</span> <span class="o">=</span> <span class="n">Person</span><span class="p">(</span><span class="s">"John"</span><span class="p">,</span> <span class="mi">36</span><span class="p">)</span>
+
+<span class="k">print</span><span class="p">(</span><span class="n">p1</span><span class="p">.</span><span class="n">name</span><span class="p">)</span>
+<span class="k">print</span><span class="p">(</span><span class="n">p1</span><span class="p">.</span><span class="n">age</span><span class="p">)</span>
+</code></pre></div></div>]]></content><author><name>Jeffrey</name></author><category term="jekyll" /><category term="jekyll" /><category term="theme" /><category term="yat" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>

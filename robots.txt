@@ -1,0 +1,1 @@
+Sitemap: captainsapphire.github.io/jekyll-theme-yat/sitemap.xml
